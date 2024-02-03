@@ -1,0 +1,33 @@
+{
+"err_InvalidCred":"Invalid Login details or Your Password might have expired. Click here to reset your password",
+"welcomMSG":"Welcome to Adactin Group of Hotels",
+"Location1":"London",
+"Hotel1":"Hotel Creek",
+"roomType":"Double",
+"No6":"6",
+"checkIn":"12/12/2024",
+"checkOut":"12/12/2025",
+"adultRoom":"2",
+"childRoom":"4",
+"selectPageURL":"https://adactinhotelapp.com/SelectHotel.php",
+"searchPageURL":"https://adactinhotelapp.com/SearchHotel.php",
+"bookingConfirmPageURL":"https://adactinhotelapp.com/BookingConfirm.php",
+
+"errFrstName":"Please Enter your First Name",
+"errLastname":"Please Enter you Last Name",
+"errAddress":"Please Enter your Address",
+"errccNum":"Please Enter your 16 Digit Credit Card Number",
+"errccType":"Please Select your Credit Card Type",
+"errExpmonth":"Please Select your Credit Card Expiry Month",
+"errCvvNum":"Please Enter your Credit Card CVV Number",
+
+"FirstName":"Bharath",
+"LastName":"Pugaz",
+"Billing_Address":"Chennai",
+"CCNum":"4111111111111111",
+"CCType":"VISA",
+"expMonth":"May",
+"expYear":"2024",
+"CVVNum":"121",
+"bookConfirmHeader":"'Booking Confirmation&nbsp;'"
+}
